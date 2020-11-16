@@ -1,3 +1,7 @@
+#b站上的项目，纯看视频做的，算是自己第一个vue项目吧，收获挺多的。
+
+
+
 # vueadmin
 
 ## Project setup
